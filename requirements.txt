@@ -1,0 +1,14 @@
+pandas
+ast
+streamlit
+re
+csv
+os
+requests
+random
+wordcloud
+matplotlib.pyplot
+nltk
+nltk.stem
+sklearn.metrics.pairwise
+sklearn.feature_extraction.text
